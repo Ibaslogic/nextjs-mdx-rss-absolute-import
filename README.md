@@ -1,19 +1,19 @@
-# Adding an RSS feed to your Next.js app
+# Understanding relative and absolute imports in Next.js
 
-Read the step-by-step guide here: [RSS feed to your Next.js app](https://blog.logrocket.com/adding-rss-feed-next-js-app/)
+Read the step-by-step guide here: ""
 
 ## Clone project
 
 You can download or clone this project by running this command from your terminal:
 
 ```
-git clone https://github.com/Ibaslogic/nextjs-mdx-blog-rss
+git clone https://github.com/Ibaslogic/nextjs-mdx-rss-absolute-import
 ```
 
 Then:
 
 ```
-cd nextjs-mdx-blog-rss
+cd nextjs-mdx-rss-absolute-import
 ```
 
 ```
